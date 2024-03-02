@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.pagination {
+  text-align: center;
+}
+
+.pagination div {
+  display: inline-block;
+  margin: 5px;
+}
+
+.table, th, td {
+  border: 3px solid black;
+}
+
+.th, td {
+  padding: 10px;
+}
